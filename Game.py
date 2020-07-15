@@ -47,5 +47,5 @@ class game:
         print("\n\n\n")
         print(self.winner(self.p1,self.p2))
         
-start=game()
-start.play_game()
+GAME=game()
+GAME.play_game()
